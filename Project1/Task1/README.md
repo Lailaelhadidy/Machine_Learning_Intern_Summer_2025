@@ -34,7 +34,7 @@ This project presents an Exploratory Data Analysis (EDA) of a real-world hotel b
 
 ## 👩‍💻 Author
 **Laila Elhadidy**  
-Intern at Cellula Technologies | 2024 EDA Internship Project  
+Intern at Cellula Technologies | 2025 EDA Internship Project  
 ---
 
 
