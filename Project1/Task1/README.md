@@ -28,7 +28,7 @@ This project presents an Exploratory Data Analysis (EDA) of a real-world hotel b
 - High-priced bookings have slightly more volatility in cancellation behavior.
 
 ## 📁 Files Included
-- `hotel_data.csv` – Original dataset
+- `hotel.csv` – Original dataset
 - `Task1-EDA.pptx` – Final storytelling dashboard
 - 5 python files for data cleaning & visualization
 
